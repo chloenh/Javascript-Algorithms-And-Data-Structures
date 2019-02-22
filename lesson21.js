@@ -4,5 +4,5 @@
 //    \SecondLine
 //ThirdLine
 
-var myStr = "FirstLine\n\tSecondLine\\\nThirdLine"; 
+var myStr = "FirstLine\n\tSecondLine\nThirdLine";
 
